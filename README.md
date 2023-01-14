@@ -4,24 +4,26 @@
 
 * Seu amigo, Clinton, tem planos para o fim de semana
 * Leia o e-mail que ele enviou e considere quais etapas são necessárias para fazer com que esses planos aconteçam:
+
 <div style="display: flex">
 <pre style="border-left: solid blueviolet; text-align: justify">
 Olá, amigo,
 
 Vai ter uma apresentação especial da História do Computador no Museu da Cidade este mês.
-Estamos pensando em ir na sexta-feira às 17h. Você gostaria de ir conosco? Acho que o metrô 
+Estamos pensando em ir na sexta-feira às 17h. Você gostaria de ir conosco? Acho que o metrô
 seria a melhor opção para chegar lá.
 
 Clinton
 </pre></div>
 
 ### Exercício 1, Parte 2
+
 * Complete o gráfico criando pelo menos um item para cada seção
 
-<div style="width: 100vw; height: 100vh">
+<div style="width: 100%; height: 100%">
 
 |                                    <pre style="border: solid blueviolet">**1º Requisitos**<pre style="border: solid blueviolet">__• O que o e-mail de Clinton está perguntando?__<br>- Estar no Museu da Cidade às 17h na sextafeira</pre></pre><h2>&rarr;</h2>                                    | <pre style="border: solid blueviolet">**2º Projetando um Plano**<pre style="border: solid blueviolet">__• O que você precisa considerar antes de sair?__<br>- Marcar um horário de encontro na estação de metrô do campus antes das 17h<br>- Consultar os mapas do metrô e das ruas</pre></pre><h2>&darr;</h2> |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | <h2>&uarr;</h2><pre style="border: solid blueviolet">**4º Testando**<pre style="border: solid blueviolet">__• Como você sabe se o plano funcionou?__<br>- Você desceu na estação correta?<br>- Os nomes das ruas e dos prédios eram os que você esperava?<br>- Você viu alguns computadores?</pre> |                        <h2>&larr;</h2><pre style="border: solid blueviolet">**3º Implementando o Plano**<pre style="border: solid blueviolet">__• Quais ações você toma?__<br>- Pegue o metrô da linha vermelha em direção à South Station<br>- Ande três quarteirões para leste</pre>                         |
 
 </div>
@@ -30,11 +32,12 @@ Clinton
 
 * **Veja a seguir novamente o email que Clinton enviou,
   casp você precise consultá-lo neste exercício**
+
 <div style="display: flex">
 <pre style="border-left: solid blueviolet">
 Olá, amigo,
 
-Vai ter uma apresentação especial da História do Computador no Museu da Cidade este mês. 
+Vai ter uma apresentação especial da História do Computador no Museu da Cidade este mês.
 Estamos pensando em ir na sexta-feira às 17 h. Você gostaria deir conosco? Acho que o metrô
 seria a melhor opção para chegar lá.
 
