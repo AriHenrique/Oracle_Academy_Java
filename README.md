@@ -5,7 +5,7 @@
 * Seu amigo, Clinton, tem planos para o fim de semana
 * Leia o e-mail que ele enviou e considere quais etapas são necessárias para fazer com que esses planos aconteçam:
 <div style="display: flex">
-<pre style="border-left: solid blueviolet; text-align: justify>
+<pre style="border-left: solid blueviolet; text-align: justify">
 Olá, amigo,
 
 Vai ter uma apresentação especial da História do Computador no Museu da Cidade este mês.
