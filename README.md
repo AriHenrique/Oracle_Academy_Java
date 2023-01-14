@@ -18,7 +18,7 @@ Clinton
 
 ### Exercício 1, Parte 2
 
-* Complete o gráfico criando pelo menos um item para cada seção
+* Complete o <span style="color:red">gráfico criando pelo menos um item para cada seção
 
 <div style="width: 100%; height: 100%">
 
