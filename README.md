@@ -36,11 +36,11 @@ Clinton
 
 − Imagine o que aconteceria com a sua noite no museu se uma etapa específica fosse esquecida:
 
-|                                      Requisitos                                       |                          Projetando um Plano                           |
-|:-------------------------------------------------------------------------------------:|:----------------------------------------------------------------------:|
+|                                    **Requisitos**                                     |                                                      **Projetando um Plano**                                                      |
+|:-------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 |                       - Você já tem compromisso na sexta-feira                        | - Todo mundo está no metrô, mas ninguém sabe para onde está indo <br> - Você fica horas andando de metrô, masnunca chega ao museu |
-|                                     **Testando**                                      |                       **Implementando o Plano**                        |
-| - Você passa pelo museu<br>- Você chega no edifício errado <br>- O museu está fechado |                                    - Apesar de ser um plano incrível, ninguém vai ao museu <br> - Clinton está chateado                                    |
+|                                     **Testando**                                      |                                                     **Implementando o Plano**                                                     |
+| - Você passa pelo museu<br>- Você chega no edifício errado <br>- O museu está fechado |                       - Apesar de ser um plano incrível, ninguém vai ao museu <br> - Clinton está chateado                        |
 
 
 
