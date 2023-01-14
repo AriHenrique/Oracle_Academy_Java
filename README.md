@@ -4,8 +4,8 @@
 
 * Seu amigo, Clinton, tem planos para o fim de semana
 * Leia o e-mail que ele enviou e considere quais etapas são necessárias para fazer com que esses planos aconteçam:
-<div>
-<pre style="border-left: solid blueviolet">
+<div style="display: flex">
+<pre style="border-left: solid blueviolet; text-align: justify>
 Olá, amigo,
 
 Vai ter uma apresentação especial da História do Computador no Museu da Cidade este mês.
@@ -18,7 +18,7 @@ Clinton
 ### Exercício 1, Parte 2
 * Complete o gráfico criando pelo menos um item para cada seção
 
-<div>
+<div style="display: flex">
 
 |                                    <pre style="border: solid blueviolet">**1º Requisitos**<pre style="border: solid blueviolet">__• O que o e-mail de Clinton está perguntando?__<br>- Estar no Museu da Cidade às 17h na sextafeira</pre></pre><h2>&rarr;</h2>                                    | <pre style="border: solid blueviolet">**2º Projetando um Plano**<pre style="border: solid blueviolet">__• O que você precisa considerar antes de sair?__<br>- Marcar um horário de encontro na estação de metrô do campus antes das 17h<br>- Consultar os mapas do metrô e das ruas</pre></pre><h2>&darr;</h2> |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -29,7 +29,7 @@ Clinton
 
 * **Veja a seguir novamente o email que Clinton enviou,
   casp você precise consultá-lo neste exercício**
-<div>
+<div style="display: flex">
 <pre style="border-left: solid blueviolet">
 Olá, amigo,
 
@@ -43,7 +43,7 @@ Clinton
 * **Complete este gráfico**
 
 − Imagine o que aconteceria com a sua noite no museu se uma etapa específica fosse esquecida:
-<div>
+<div style="display: flex">
 
 |                      <pre style="border: solid blueviolet">**1º Requisitos**<pre style="border: solid blueviolet">- Você já tem compromisso na sexta</pre></pre><h2>&rarr;</h2>                       | <pre style="border: solid blueviolet">**2º Projetando um Plano**<pre style="border: solid blueviolet">- Todo mundo está no metrô, mas ninguém sabe para onde está indo <br> - Você fica horas andando de metrô, masnunca chega ao museu</pre></pre><h2>&darr;</h2> |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
