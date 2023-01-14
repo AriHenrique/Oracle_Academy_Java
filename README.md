@@ -18,7 +18,7 @@ Clinton
 ### Exercício 1, Parte 2
 * Complete o gráfico criando pelo menos um item para cada seção
 
-<div style="width: 100%">
+<div style="width: 100vw; height: 100vh">
 
 |                                    <pre style="border: solid blueviolet">**1º Requisitos**<pre style="border: solid blueviolet">__• O que o e-mail de Clinton está perguntando?__<br>- Estar no Museu da Cidade às 17h na sextafeira</pre></pre><h2>&rarr;</h2>                                    | <pre style="border: solid blueviolet">**2º Projetando um Plano**<pre style="border: solid blueviolet">__• O que você precisa considerar antes de sair?__<br>- Marcar um horário de encontro na estação de metrô do campus antes das 17h<br>- Consultar os mapas do metrô e das ruas</pre></pre><h2>&darr;</h2> |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
